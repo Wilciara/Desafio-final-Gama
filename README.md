@@ -5,7 +5,7 @@
 ***
 
     
-# Desafio-final-Gama  
+# 📣 Desafio-final-Gama  
 ***
 
 
@@ -19,7 +19,7 @@ Já temos o layout pronto de todas as páginas, mas caso vocês queiram, podem m
 ![image](https://user-images.githubusercontent.com/94201226/163724302-f50151d7-da5b-420c-8d22-48ebdbc13e6d.png)  
 
 ***
-# O que fazer?  
+#  🎯 O que fazer?  
 ***   
  
 
@@ -51,9 +51,20 @@ Os links devem ser configurados para permitir a navegação entre as páginas.
 O banco de dados deve ser entregue como um MER, incluindo as cardinalidades.
 
 ***
+***
+# 🎁 O que foi fornecido?  
+***
 
 https://www.loom.com/share/218e9eae72b842a2aeff91e001de9a41
-
+  
+***
+***
+# 🤯 Desenvolvimento:  
+***  
+***
+#  🛠️ Ferramentas:  
+***
+***
 
 
 
